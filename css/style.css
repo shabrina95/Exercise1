@@ -1,0 +1,12 @@
+.jumbotron img { /*untuk class menggunakan # */
+width:150px;
+
+}
+
+.lingkaran{ /*untuk class menggunakan # */
+   border-radius: 100%; 
+}
+
+#about{ /*untuk id menggunakan # */
+    font-style: italic;
+}
